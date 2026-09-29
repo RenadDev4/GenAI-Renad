@@ -6,7 +6,6 @@ SDAIA Academy GitHub: https://github.com/SDAIAAcademy
 Daily Manager Briefing Assistant
 
 ## Idea Selected
-Choose one:
 1. Meeting Follow-up Assistant
 
 ## Problem Statement
@@ -31,7 +30,7 @@ Overdue tasks (max 5)
 KPIs that dropped, each with a short reason from the data
 Team follow-ups required
 
-Format: Short bullet points, professional tone, under 200 words. Use only the numbers in the input. If information is missing, write "Not available" and do not guess. If a section has no items, write "None". Output only the briefing, with no introduction or closing.
+Format: Short bullet points, professional tone, under 200 words. Use only the numbers in the input. If information is missing,Order overdue tasks by most days late first. If a dropped KPI has no driver, write "Reason: Not available.
 
 ## Sample Input
 Paste your sample input here.
